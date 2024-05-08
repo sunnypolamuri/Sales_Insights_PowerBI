@@ -2,12 +2,8 @@
 
 An automated Dashboard providing quick & latest sales insights in order to support data driven decision making.
 
-1. SQL database dump is in db_dump_version_2.sql file above. Download `db_dump_version_2.sql` file to your local computer and import it.
-   
-2. Download the .pbix file to view the interactive dashboard in PowerBI, or find the attached PDF file 'Sales_Insights_Full_Dashboard.pdf' containing the static dashboard of Key Insights, Profit Analysis, and Performance Insights.
-
 **PURPOSE**
-To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
+To unlock previously unseen sales insights for the sales team to support decision-making and automate processes, reducing the manual time spent on data gathering.
 
 **STAKEHOLDERS**
 1.Sales Director
@@ -23,3 +19,8 @@ To unlock sales insights that are not visible before for sales team for decision
 
 **END RESULT**
 An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
+
+**Steps to Execute**
+1. SQL database dump is in db_dump_version_2.sql file above. Download `db_dump_version_2.sql` file to your local computer and import it.
+   
+2. Download the .pbix file to view the interactive dashboard in PowerBI, or find the attached PDF file 'Sales_Insights_Full_Dashboard.pdf' containing the static dashboard of Key Insights, Profit Analysis, and Performance Insights.
