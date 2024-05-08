@@ -10,11 +10,11 @@ An automated Dashboard providing quick & latest sales insights in order to suppo
 To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 
 **STAKEHOLDERS**
-Sales Director
-Marketing Team 
-Customer Service Team
-Data & Analytics Team
-IT
+1.Sales Director
+2.Marketing Team 
+3.Customer Service Team
+4.Data & Analytics Team
+5.IT
 
 **SUCCESS CRITERIA**
 1.Dashboard(s) uncovering sales order insights with latest data available
