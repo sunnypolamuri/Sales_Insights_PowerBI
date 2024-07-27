@@ -1,4 +1,4 @@
-## Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
 
 An automated Dashboard providing quick & latest sales insights in order to support data driven decision making.
 
